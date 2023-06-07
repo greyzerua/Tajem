@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /*Обнуление*/
-@import url(../fonts/fontawesome/css/all.min.css);
+@import url(./fonts/fontawesome/css/all.min.css);
 * {
   padding: 0;
   margin: 0;
